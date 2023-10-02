@@ -1,0 +1,30 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+    font-size: 1.2em;
+    background-image: url(../images/3409297.jpg);
+    color: #fbfcf8;
+}
+img{
+    height: 300px;
+    width: auto;
+}
+h1{
+    font-family: 'Young Serif', sans-serif;
+}
+h2{
+    font-family: 'roboto', sans-serif;
+}
+.ex{
+    font-family: 'Kaushan script',sans-serif;
+}
+.ex1{
+    font-family: 'signika', sans-serif;
+}
+.ex2{
+    font-family: 'young serif',sans-serif;
+}
+.ex3{
+    font-family: 'Lobster two',sans-serif;
+}
